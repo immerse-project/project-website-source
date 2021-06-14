@@ -35,16 +35,23 @@
   weight = 3
 
 [[main]]
-  name = "NEMO ocean model"
+  name = "The NEMO ocean model"
   parent = "Software"
   url = "https://www.nemo-ocean.eu"
   weight = 1
 
 [[main]]
-  name = "SIMSAR"
+  name = "Sharing NEMO experiments"
   parent = "Software"
   url = "https://immerse-ocean.eu/nemo-simsar/"
   weight = 2
+
+[[main]]
+  name = "Analysing error covariances"
+  parent = "Software"
+  url = "https://github.com/MetOffice/ocean_error_covs"
+  weight = 3 
+
 
 [[main]]
   name = "Demonstrators"
