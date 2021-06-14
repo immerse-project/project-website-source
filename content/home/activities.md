@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 #subtitle = "mysubtitle"
 
 # Order that this section will appear in.
-weight = 4 
+weight = 5 
 
 
 

@@ -46,7 +46,6 @@
   url = "https://immerse-ocean.eu/nemo-simsar/"
   weight = 2
 
-
 [[main]]
   name = "Demonstrators"
   weight = 4
