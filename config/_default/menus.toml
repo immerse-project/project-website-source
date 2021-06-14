@@ -9,31 +9,8 @@
   weight = 1
 
 [[main]]
-  name = "Project"
-  url = "project"
-  weight = 2
-
-[[main]]
-  name = "Objectives"
-  parent = "Project"
-  url = "#about"
-  weight = 1
-
-[[main]]
-  name = "Methodology"
-  parent = "Project"
-  url = "#activities"
-  weight = 2
-
-[[main]]
-  name = "Partners"
-  parent = "Project"
-  url = "#partners"
-  weight = 3
-
-[[main]]
   name = "People"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "Coordination board"
@@ -52,6 +29,23 @@
   parent = "People"
   url = "people/advisory-board"
   weight = 3
+
+[[main]]
+  name = "Software"
+  weight = 3
+
+[[main]]
+  name = "NEMO ocean model"
+  parent = "Software"
+  url = "https://www.nemo-ocean.eu"
+  weight = 1
+
+[[main]]
+  name = "SIMSAR"
+  parent = "Software"
+  url = "https://immerse-ocean.eu/nemo-simsar/"
+  weight = 2
+
 
 [[main]]
   name = "Demonstrators"
@@ -92,25 +86,24 @@
   weight = 2
 
 [[main]]
-  name = "Tools"
-  url = "#tous"
+  name = "Join us"
   weight = 6
 
 [[main]]
   name = "NEMO repository"
-  parent = "Tools"
+  parent = "Join us"
   url = "http://forge.ipsl.jussieu.fr/nemo/wiki/Users"
   weight = 1
 
 [[main]]
   name = "NEMO users forum"
-  parent = "Tools"
+  parent = "Join us"
   url = "http://nemo-ocean.discourse.group"
   weight = 2
 
 [[main]]
   name = "Mattermost server"
-  parent = "Tools"
+  parent = "Join us"
   url = "https://chat.immerse-ocean.eu/login "
   weight = 3
 
