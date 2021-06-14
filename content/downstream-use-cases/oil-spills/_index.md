@@ -3,6 +3,9 @@
 
 ### Context and Issue at stake 
 Oil spills in marine environments can have widespread impact, long-term consequences on wildlife, fisheries and coastal habitats. We will investigate the impact of fine scale oceanic motions known as ‘submesoscales’ on the drift of the oil. We will test whether explicitly representing submesoscale flows allows to more accurately predict the pollutant advection-diffusion and, therefore, their impacts on the coastal environment. 
+
+![Oil spills](../../img/downstream-cases/oil-spills_illustration.jpg)
+*Model domains with details of the surface circulation. (Fig. A) Boundaries of the two consecutive nested domains with increasing grid resolutions of ~ 2000m (red rectangle) and ~ 500m (blue rectangle). Overplotted the ASAR-ENVISAT ESA Satellite image acquired on November 17, 2002 showing the wake of the fuel oil of the Prestige accident. Daily mean surface velocity field on November 13, 2002 of the CMEMS-IBI Ocean Reanalysis system at 1/12° (Fig. B) Nest1 model at 1/48°(Fig. C) and Nest2 model at 1/192° (Fig. D).*
  
 ### Description of modelling tools 
 The SURF platform (https://www.surf-platform.org), based on the NEMO code, will be used to downscale from the parent course resolution model to very high-resolution submesoscale permitting model. We will use as First Parent Model the CMEMS  IBI (Iberian Biscay Irish) Ocean Reanalysis System (IBI_REANALYSIS_PHYS_005_002 product). The oil spill model code MEDSLIK-II , forced by wind and ocean current, will be used then to simulate and predict the transport and weathering of an oil spill and to evaluate the impact of the new fine-scale ocean motion on the oil spill advection-diffusion. 

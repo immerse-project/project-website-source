@@ -7,4 +7,4 @@ Our **downstream use-cases** focus on :
  - [Coastal processes in the German Bight](german-bight) 
  - [Marine plastic litter transport from Europe to the Arctic](arctic-plastic) 
  - [Water quality of the Tamar Estuary and adjacent coast](tamar-estuary)
- - [Oil-splills Transport  in the Open Ocean](oil-spills)
+ - [Oil-spills Transport  in the Open Ocean](oil-spills)
