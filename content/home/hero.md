@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = ""
 
@@ -12,8 +12,8 @@ weight =2
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
 #  overlay_color = "#FFFFFF"  # An HTML color value.
-  overlay_color = "#00053E"  # An HTML color value.
-  overlay_img = "headers/test-header.jpeg"  # Image path relative to your `static/img/` folder.
+#  overlay_color = "#00053E"  # An HTML color value.
+#  overlay_img = "headers/test-header.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
