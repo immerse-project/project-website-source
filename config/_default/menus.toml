@@ -66,15 +66,15 @@
   weight = 4
 
 [[main]]
-  name = "NEMO test cases"
+  name = "NEMO idealized test cases"
   parent = "Dissemination"
-  url = "nemo-test-cases"
+  url = "https://github.com/NEMO-ocean/NEMO-examples"
   weight = 1
 
 [[main]]
-  name = "Prototype CMEMS systems"
+  name = "Prototype models for CMEMS"
   parent = "Dissemination"
-  url = "prototype-cmems-systems"
+  url = "prototypes"
   weight = 2
 
 [[main]]
