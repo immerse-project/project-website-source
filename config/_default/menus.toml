@@ -32,14 +32,7 @@
   weight = 3
 
 [[main]]
-  name = "Contact"
-  parent = "Project"
-  url = "#contact"
-  weight = 4
-
-[[main]]
   name = "People"
-  url = "people"
   weight = 3
 
 [[main]]
@@ -52,75 +45,76 @@
   name = "Executive board"
   parent = "People"
   url = "people/executive-board"
-  weight = 2 
+  weight = 2
 
 [[main]]
   name = "Advisory board"
   parent = "People"
   url = "people/advisory-board"
-  weight = 3 
+  weight = 3
 
 [[main]]
-  name = "Dissemination"
-  url = "#projects"
+  name = "Demonstrators"
   weight = 4
 
 [[main]]
   name = "NEMO idealized test cases"
-  parent = "Dissemination"
+  parent = "Demonstrators"
   url = "https://github.com/NEMO-ocean/NEMO-examples"
   weight = 1
 
 [[main]]
   name = "Prototype models for CMEMS"
-  parent = "Dissemination"
+  parent = "Demonstrators"
   url = "prototypes"
   weight = 2
 
 [[main]]
   name = "Downstream use cases"
-  parent = "Dissemination"
+  parent = "Demonstrators"
   url = "downstream-use-cases"
   weight = 3
+
+[[main]]
+  name = "Dissemination"
+  weight = 5
 
 [[main]]
   name = "Publications"
   parent = "Dissemination"
   url = "publications"
-  weight = 4 
+  weight = 1
 
 [[main]]
   name = "Deliverables"
   parent = "Dissemination"
   url = "deliverables"
-  weight = 5
+  weight = 2
 
 [[main]]
   name = "Tools"
   url = "#tous"
-  weight = 5
+  weight = 6
 
-[[main]] 
-  name = "Communication toolkit"
-  parent = "Tools"
-  url = "#tools/communication-toolkit"
-  weight = 1 
-  
 [[main]]
-  name = "Mattermost"
+  name = "NEMO repository"
   parent = "Tools"
-  url = "https://chat.immerse-ocean.eu/login "
+  url = "http://forge.ipsl.jussieu.fr/nemo/wiki/Users"
+  weight = 1
+
+[[main]]
+  name = "NEMO users forum"
+  parent = "Tools"
+  url = "http://nemo-ocean.discourse.group"
   weight = 2
 
 [[main]]
-  name = "NEMO forge"
+  name = "Mattermost server"
   parent = "Tools"
-  url = "http://forge.ipsl.jussieu.fr/nemo/wiki/Users"
+  url = "https://chat.immerse-ocean.eu/login "
   weight = 3
-
 
 [[main]]
   name = "News"
   url = "#posts"
-  weight = 6
-
+  weight = 7
