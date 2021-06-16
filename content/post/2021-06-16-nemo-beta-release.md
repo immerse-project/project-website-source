@@ -1,5 +1,5 @@
 +++
-title = "2021 06 16 Nemo Beta Release"
+title = "Announcing the NEMO v4.2 Release Candidate for beta-testers"
 date = 2021-06-16T17:14:22+02:00
 draft = false
 
