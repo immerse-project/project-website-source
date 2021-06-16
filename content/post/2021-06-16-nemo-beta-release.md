@@ -19,6 +19,6 @@ categories = []
   focal_point = ""
 +++
 
-After 30 months of efforts and a global pandemics, the IMMERSE project team and the NEMO system team are glad to officially announce the beta-release of NEMO version 4.2 almost on time ! Congratulations to all the NEMO developpers for this major contibution to the evolution of CMEMS services. 
+After 30 months of efforts and a global pandemics, the IMMERSE project team and the NEMO system team are glad to officially announce the beta-release of NEMO version 4.2 almost on time ! Congratulations to all the NEMO developpers for this major contribution to the evolution of CMEMS services. 
 
 [![](/img/posts/nemo-4.2_RC-release-june2021.jpg)](https://nemo-ocean.discourse.group/t/announcing-the-4-2-release-candidate-and-call-for-beta-testers/86)
