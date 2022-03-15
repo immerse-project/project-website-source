@@ -98,7 +98,7 @@
 [[main]]
   name = "NEMO repository"
   parent = "Join us"
-  url = "http://forge.ipsl.jussieu.fr/nemo/wiki/Users"
+  url = "https://forge.nemo-ocean.eu/nemo"
   weight = 1
 
 [[main]]
